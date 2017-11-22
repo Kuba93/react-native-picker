@@ -1,7 +1,7 @@
 {
 	"name": "mkp-react-native-picker",
-	"version": "1.1.1",
-	"description": "cross platform picker for Ios and Android",
+	"version": "1.2.0",
+	"description": "cross platform picker for Ios",
 	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
